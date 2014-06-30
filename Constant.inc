@@ -30,12 +30,12 @@ lang LANG_KOR // 언어 세팅, 이하 한국 버젼에 적용
   formula 
   {
     itemDropRate = 1.0 
-    goldDropRate = 1.0 
-    monsterExpRate = 1.0 
+    goldDropRate = 0.2 
+    monsterExpRate = 0.1 
     monsterHitRate = 1.0
     dwVagSP = 1
-    dwExpertSP = 2
-    dwProSP = 3
+    dwExpertSP = 1
+    dwProSP = 1
   }
 }
 //----------------------------------------------------------------------------------------------------// 
