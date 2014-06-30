@@ -1,0 +1,99 @@
+IDS_TITLE_TXT_0001	Meistersammler
+IDS_TITLE_TXT_0002	Meisterhändler
+IDS_TITLE_TXT_0003	Meisterzüchter
+IDS_TITLE_TXT_0004	Casanova
+IDS_TITLE_TXT_0005	Treuer Partner
+IDS_TITLE_TXT_0006	Playerkiller
+IDS_TITLE_TXT_0007	Bodybuilder
+IDS_TITLE_TXT_0008	Zäher Hund
+IDS_TITLE_TXT_0009	Flinkes Wiesel
+IDS_TITLE_TXT_0010	Intelligenzbestie
+IDS_TITLE_TXT_0011	Kriegeranwärter
+IDS_TITLE_TXT_0012	Kriegernovize
+IDS_TITLE_TXT_0013	Strebsamer Krieger
+IDS_TITLE_TXT_0014	Leidenschaftlicher Krieger
+IDS_TITLE_TXT_0015	Bekannter Krieger
+IDS_TITLE_TXT_0016	Starker Krieger
+IDS_TITLE_TXT_0017	Berühmter Krieger
+IDS_TITLE_TXT_0018	Großer Krieger
+IDS_TITLE_TXT_0019	Glorreicher Krieger
+IDS_TITLE_TXT_0020	Volksheld
+IDS_TITLE_TXT_0021	Knight Master
+IDS_TITLE_TXT_0022	Blade Master
+IDS_TITLE_TXT_0023	Jester Master
+IDS_TITLE_TXT_0024	Ranger Master
+IDS_TITLE_TXT_0025	Ringmaster Master
+IDS_TITLE_TXT_0026	Billposter Master
+IDS_TITLE_TXT_0027	Psykeeper Master
+IDS_TITLE_TXT_0028	Elementor Master
+IDS_TITLE_TXT_0029	Knight Hero
+IDS_TITLE_TXT_0030	Blade Hero
+IDS_TITLE_TXT_0031	Jester Hero
+IDS_TITLE_TXT_0032	Ranger Hero
+IDS_TITLE_TXT_0033	Ringmaster Hero
+IDS_TITLE_TXT_0034	Billposter Hero
+IDS_TITLE_TXT_0035	Psykeeper Hero
+IDS_TITLE_TXT_0036	Elementor Hero
+IDS_TITLE_TXT_0037	Lord
+IDS_TITLE_TXT_0038	Grauer Medizinmann
+IDS_TITLE_TXT_0039	Gelber Medizinmann
+IDS_TITLE_TXT_0040	Blauer Medizinmann
+IDS_TITLE_TXT_0041	Roter Medizinmann
+IDS_TITLE_TXT_0042	Goldener Medizinmann
+IDS_TITLE_TXT_0043	Mysteriöser Medizinmann
+IDS_TITLE_TXT_0044	Lollipop Lover
+IDS_TITLE_TXT_0045	Krümeltier
+IDS_TITLE_TXT_0046	Schokoladenbär
+IDS_TITLE_TXT_0047	Milchbart
+IDS_TITLE_TXT_0048	Dauertoaster
+IDS_TITLE_TXT_0049	Heißer Hund
+IDS_TITLE_TXT_0050	Pizzabäcker
+IDS_TITLE_TXT_0051	Sushimeister
+IDS_TITLE_TXT_0052	Verrücktes Huhn
+IDS_TITLE_TXT_0053	Naschkatze
+IDS_TITLE_TXT_0054	Schaschlikgriller
+IDS_TITLE_TXT_0055	Grillkönig
+IDS_TITLE_TXT_0056	Pfannkuchenwender
+IDS_TITLE_TXT_0057	Suppenfischer
+IDS_TITLE_TXT_0058	Würstchenwerfer
+IDS_TITLE_TXT_0059	Meister der Gräten
+IDS_TITLE_TXT_0060	Gourmet der Meere
+IDS_TITLE_TXT_0061	Fleischsalatfan
+IDS_TITLE_TXT_0062	Gratinmonster
+IDS_TITLE_TXT_0063	Pizzamonster
+IDS_TITLE_TXT_0064	Orangenentsafter
+IDS_TITLE_TXT_0065	Shakemixer
+IDS_TITLE_TXT_0066	Ananasspezialist
+IDS_TITLE_TXT_0067	Palmkletterer
+IDS_TITLE_TXT_0068	Fruchtpanscher
+IDS_TITLE_TXT_0069	Eisschlecker
+IDS_TITLE_TXT_0070	Smoothie
+IDS_TITLE_TXT_0071	Sorbetliebhaber
+IDS_TITLE_TXT_0072	Eiszapfen
+IDS_TITLE_TXT_0073	Fruchtpunschfan
+IDS_TITLE_TXT_0074	Aibattfänger
+IDS_TITLE_TXT_0075	Fellgerber
+IDS_TITLE_TXT_0076	Puppenspieler
+IDS_TITLE_TXT_0077	Glaphanschreck
+IDS_TITLE_TXT_0078	Drachenjäger
+IDS_TITLE_TXT_0079	Höllenteufel
+IDS_TITLE_TXT_0080	Yeti-Den-Hammer-Wegnehmer
+IDS_TITLE_TXT_0081	Gebirgsjäger
+IDS_TITLE_TXT_0082	Auguentstachler
+IDS_TITLE_TXT_0083	Augubändiger
+IDS_TITLE_TXT_0084	Geisterjäger
+IDS_TITLE_TXT_0085	Königstöter
+IDS_TITLE_TXT_0086	Mammutjäger
+IDS_TITLE_TXT_0087	Mammutausrotter
+IDS_TITLE_TXT_0088	Panzerknacker
+IDS_TITLE_TXT_0089	Krakenfischer
+IDS_TITLE_TXT_0090	Krabbenfischer
+IDS_TITLE_TXT_0091	Schlangenbeschwörer
+IDS_TITLE_TXT_0092	Kammerjäger
+IDS_TITLE_TXT_0093	Jagdtaucher
+IDS_TITLE_TXT_0094	Tigerbändiger
+IDS_TITLE_TXT_0095	Strandfischer
+IDS_TITLE_TXT_0096	Säbelrassler
+IDS_TITLE_TXT_0097	Bezwinger des Uhrwerks
+IDS_TITLE_TXT_0098	Wahrer Drachenjäger
+IDS_TITLE_TXT_0099	Meisterspringer

@@ -1,0 +1,18 @@
+IDS_LORDSKILL_TXT_0000	Cheer of Lord
+IDS_LORDSKILL_TXT_0001	Erhöht die EXP und Droprate des Charakter um 10%.
+IDS_LORDSKILL_TXT_0002	Blessing of Lord
+IDS_LORDSKILL_TXT_0003	Erhöht den Angriff und die Verteidigung des Charakter um 10%.
+IDS_LORDSKILL_TXT_0004	Love of Lord
+IDS_LORDSKILL_TXT_0005	Erhöht jeden Statuswert um 15 Punkte.
+IDS_LORDSKILL_TXT_0006	Shout of Lord
+IDS_LORDSKILL_TXT_0007	Die Farbe seiner Textschrift ist anders.
+IDS_LORDSKILL_TXT_0008	Anger of Lord
+IDS_LORDSKILL_TXT_0009	Verbietet einem Spieler das Schreiben fur einen gewissen Zeitraum.
+IDS_LORDSKILL_TXT_0010	
+IDS_LORDSKILL_TXT_0011	
+IDS_LORDSKILL_TXT_0012	Call of Lord
+IDS_LORDSKILL_TXT_0013	Teleportiert einen Charakter zum Lord
+IDS_LORDSKILL_TXT_0014	Teleport of Lord
+IDS_LORDSKILL_TXT_0015	Teleportiert den Lord zu einem Charakter
+IDS_LORDSKILL_TXT_0016	Party of Lord
+IDS_LORDSKILL_TXT_0017	Die Dauer der Partyskills wird um 400% verlängert. (Nur wenn der Lord Anführer der Party ist und die Skills ausfuhrt.)

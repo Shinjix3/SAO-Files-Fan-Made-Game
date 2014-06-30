@@ -1,0 +1,75 @@
+//=========================================================================	
+//	¾ËÆÄºª ´Ü¾î ¸ÂÃß±â ½ºÅ©¸³Æ® ¹®Á¦
+//=========================================================================	
+
+
+ALPHABET_QUESTION_ID_0001	°Å·¡, ±³È¯, ¹«¿ªÀÌ¶ó´Â ¶æÀ¸·Î 9.11Å×·¯ ¶§ ¿ùµå (  ) ¼¾ÅÍ°¡ ºØ±«µÇ¾úÁÒ
+ALPHABET_QUESTION_ID_0002	´ëÇÑ¹Î±¹, °ø½Ä ¿µ¾î¸íÄªÀº the Republic of (  ) ÀÔ´Ï´Ù.
+ALPHABET_QUESTION_ID_0003	ÅÂ¾ç°è 3¹ø Â° Çà¼ºÀ¸·Î terra¶ó°í ºÒ¸®±âµµ ÇÕ´Ï´Ù.
+ALPHABET_QUESTION_ID_0004	°¨»çÇÏ´Ù´Â ÀÇ¹Ì. ½ßÀ¯~?
+ALPHABET_QUESTION_ID_0005	ÄÉÀÌÅ©ÀÇ °Ñ¿¡ µÑ·¯Á® ÀÖ´Â °ÍÀ¸·Î ´ÞÄÞÇÏÁÒ~
+ALPHABET_QUESTION_ID_0006	¿ì¸®³ª¶ó Áöµµ´Â ÀÌ µ¿¹°ÀÇ Çü»óÀ» ¶ç°í ÀÖÁÒ!
+ALPHABET_QUESTION_ID_0007	¾î¶°ÇÑ »ç¹° ¶Ç´Â »ç¶÷À¸·ÎºÎÅÍ ¹Þ´Â ´À³¦, ¿µ»ó, ½É»óÀÌ¶ó°í ÇÕ´Ï´Ù.
+ALPHABET_QUESTION_ID_0008	¸¶¼úÀÌ¶ó´Â ÀÇ¹Ì·Î µ¥ÀÌºñµå Ä«ÆÛÇÊµå°¡ ÀÌ°ÍÀ» ÀßÇßÁÒ~ ÇÁ¸®ÇÁ¿¡µµ ÀÌ°ÍÀ» »ç¿ëÇÏ´Â Á÷¾÷ÀÌ..
+ALPHABET_QUESTION_ID_0009	ÇàÁøÇÏ´Ù, Áø±º ÇÏ´Ù´Â ÀÇ¹ÌÀÌ¸ç 3¿ùµµ ¿µ¾î·Î ÀÌ·¸°Ô ¾¹´Ï´Ù.
+ALPHABET_QUESTION_ID_0010	µî±Þ, °è±ÞÀÌ¶ó´Â ´Ü¾î
+ALPHABET_QUESTION_ID_0011	½ÅÈ­ ¶Ç´Â Àü¼³ µî¿¡ ³ª¿À´Â °Å´ëÇÑ »ç¶÷
+ALPHABET_QUESTION_ID_0012	´ëÇÑ¹«¿ªÅõÀÚÁøÈï°ø»çÀÇ ¿µ¾î ¾àÀÚ
+ALPHABET_QUESTION_ID_0013	½ÉÀå, ¸¶À½ÀÌ¶ó´Â ¶æ. ¢½
+ALPHABET_QUESTION_ID_0014	¾Ç¸¶, ¸¶±Í¶ó´Â ¶æÀ¸·Î devilÀÇ ´Ù¸¥ ¸»
+ALPHABET_QUESTION_ID_0015	ÃÊÄÝ·¿ÀÇ ¿ø·á·Î ÄÚÄÚ¾Æ¶ó°íµµ ºÒ¸³´Ï´Ù.
+ALPHABET_QUESTION_ID_0016	¹«¼±ÀÌ¶ó´Â ÀÇ¹Ì¸¦ ´ã°í ÀÖÀ¸³ª ÁÖ·Î À½¼º¹æ¼Û°ú ÀÌ¸¦ ¼ö½ÅÇÏ´Â ±â±â¸¦ ÀÏÄÂ½À´Ï´Ù.
+ALPHABET_QUESTION_ID_0017	Åõ±âÀåÀÌ¶ó´Â ÀÇ¹Ì·Î ÇÁ¸®ÇÁ¿¡¼­µµ ÀÌ°÷¿¡ ÀÔÀåÀÌ °¡´ÉÇÕ´Ï´Ù.
+ALPHABET_QUESTION_ID_0018	±Ëµµ ¶Ç´Â ¼±·Î, ÈçÀû ÀÌ¶ó´Â ÀÇ¹ÌÀÌ¸ç, µå¶ó¸¶³ª ¿µÈ­ »ðÀÔ°îµéÀ» ¸ð¾Æ ¸¸µç ¾Ù¹üÀ» ¿À¸®Áö³Î »ç¿îµå ÀÌ°ÍÀÌ¶ó°í ÇÕ´Ï´Ù.
+ALPHABET_QUESTION_ID_0019	´ÜÀ§ÀÇ ÇÏ³ª·Î 100¸¸ºÐÀÇ 1À» °¡¸®Åµ´Ï´Ù.
+ALPHABET_QUESTION_ID_0020	´Ù½Ã, ¿øÀ§Ä¡·Î ¶ó´Â ¶æÀÇ ´Ü¾î
+ALPHABET_QUESTION_ID_0021	¨­Åé©Ò»Ý¡A¦Ó¥B¨C¤Ñ¤]­n¶¼ªº?
+ALPHABET_QUESTION_ID_0022	¨C¤é¤@¤°»ò??? Âå¥Í»·Â÷§Ú¡I
+ALPHABET_QUESTION_ID_0023	ÁÂÁÂªº·N«ä??
+ALPHABET_QUESTION_ID_0024	¥@¬É¬y³qªº¥æ©ö³æ¦ì?
+ALPHABET_QUESTION_ID_0025	¥@¬ÉµÛ¦Wªººô¤W·j´M¤ÞÀº?
+ALPHABET_QUESTION_ID_0026	¦b¨È¬wªF³¡¦³¤é¥X¤§°ê¤§ºÙ?
+ALPHABET_QUESTION_ID_0027	°êºX¤W¦³¤­Áû¶À¦â¬P¬P?
+ALPHABET_QUESTION_ID_0028	«n¬ü¬w°ê®a,­º³£¬°¸t¦a¤ú­ô?
+ALPHABET_QUESTION_ID_0029	¦b®ü¤W¦æ¾pªº¥æ³q¥\¨ã¤§¤@?
+ALPHABET_QUESTION_ID_0030	¨ýÄ±¤§¤@,»Ä²¢­W?
+ALPHABET_QUESTION_ID_0031	¥Î­µ²Å²Õ¦X¦¨ªºªF¦è?
+ALPHABET_QUESTION_ID_0032	§Ú­Ì¥¿¦b¥Í¦sªº¦a¤è?
+ALPHABET_QUESTION_ID_0033	¤@¯Z¤H¥i¥H¤@°_¿ì¤@­Ó?
+ALPHABET_QUESTION_ID_0034	­n¬O¥@¤W¨S¦³¾Ôª§ªº¸Ü¡A±N·|ÅÜ±o¦p¦ó?
+ALPHABET_QUESTION_ID_0035	«C¯óªºÃC¦â?
+ALPHABET_QUESTION_ID_0036	´È¤l¨Ñ¤H­Ì§¤¤U¡A¨º¤°»òªF¦è¨Ñ¤H­ÌÂ\©ñªF¦è?
+ALPHABET_QUESTION_ID_0037	¤H­Ì¥ð®§®É¡A°£¤F§¤¦b¦a¤W¡A¦b¤é±`¥Í¬¡ÁÙ¥i¥H§¤¦b?
+ALPHABET_QUESTION_ID_0038	¦Ñ®v±`»¡,Good Morning?
+ALPHABET_QUESTION_ID_0039	¤Ó¶§¨t²Ä¤G¦æ¬P?
+ALPHABET_QUESTION_ID_0040	°ü¤k¸`¦b¨º¤@­Ó¤ë¥÷?
+ALPHABET_QUESTION_ID_0041	³Ì¦hª÷¦r¶ðªº¦a¤è?
+ALPHABET_QUESTION_ID_0042	§AºÙ©I­ô­ôªºª¨ª¨ªº§Ì§Ì§@?
+ALPHABET_QUESTION_ID_0043	²¢ªº,¤pªB¤Í«Ü³ßÅw¦Y?
+ALPHABET_QUESTION_ID_0044	¦b°¨À¸¯Zªíºtªº¤H?
+ALPHABET_QUESTION_ID_0045	®iÄý·|ªºÅu¦ì?
+ALPHABET_QUESTION_ID_0046	¬üÄR¦Ó°·±dªº?
+ALPHABET_QUESTION_ID_0047	ÂAªá¥¿¦b²±©ñ?
+ALPHABET_QUESTION_ID_0048	¤}ªº³Ì¦n©ç¾×?
+ALPHABET_QUESTION_ID_0049	©Á«ãªº­^¤å¬O?
+ALPHABET_QUESTION_ID_0050	²§§Îªº­^¤å¬O?
+ALPHABET_QUESTION_ID_0051	¤Q¤À¥^¦£!
+ALPHABET_QUESTION_ID_0052	²¢ÂI¤§¤@,³z©úªº?
+ALPHABET_QUESTION_ID_0053	ªk®xªº³Ì°ª¨Mµ¦ªÌ?
+ALPHABET_QUESTION_ID_0054	§â½­ªG¿i¦¨²GÅé?
+ALPHABET_QUESTION_ID_0055	¥Çªkªº¬Û¤Ï?
+ALPHABET_QUESTION_ID_0056	±a¦³»Ä»Äªº¶À¦â¤ôªG¬O?
+ALPHABET_QUESTION_ID_0057	¤É¯Å¤F~~
+ALPHABET_QUESTION_ID_0058	¦L«×¶Ç²Î­¹ª«¤§¤@?
+ALPHABET_QUESTION_ID_0059	­»´ä¯S§O¦æ¬F°ÏÂ²ºÙ?
+ALPHABET_QUESTION_ID_0060	­^¶W¨¬²y¶¤°ÒÁpªºµÛ¦W«á½Ã²y­û?
+ALPHABET_QUESTION_ID_0061	­¹ª«¤@ºØ,¤W­±³q±`·|¦³¥Õ¦âªºÂæ?
+ALPHABET_QUESTION_ID_0062	¤k©ÊªA¸Ë¤§¤@,¤U¨­¬ïµÛ?
+ALPHABET_QUESTION_ID_0063	¥ªªº¬Û¤Ï?
+ALPHABET_QUESTION_ID_0064	ªeªº­^¤å?
+ALPHABET_QUESTION_ID_0065	°ò·þ±Ð¤¤µÛ¦Wªº´cÅ]?
+ALPHABET_QUESTION_ID_0066	ÀY¾v¤£¾ã¼ä´N·|¥X²{?
+ALPHABET_QUESTION_ID_0067	©U§£¼oª«?
+ALPHABET_QUESTION_ID_0068	¯f¬r?
+ALPHABET_QUESTION_ID_0069	®ü¬v¥Íª«¤@ºØ,Åé«¬Ãe¤j?
+ALPHABET_QUESTION_ID_0070	¥¿½Tªº¬Û¤Ï
