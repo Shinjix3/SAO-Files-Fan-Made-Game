@@ -9,7 +9,7 @@ dofile(".\\LuaFunc\\EventFunc.lua")
 bNotice = true		-- 자동 공지 실행 여부(true or false)
 Notice( "Tue 08:44", 5, 10 )	-- 자동공지시간, 공지간격(MIN), 공지 횟수
 --{
-	AddMessage( "RockNetwork" )
+	AddMessage( "SAO-Alpha Event" )
 --}
 
 ----------------------------------------------------------------------
@@ -76,8 +76,11 @@ AddEvent( "EVENT TEST 01" )
 
 AddEvent( "" )
 --{
-	SetTime( "2010-01-01 00:00", "2011-01-01 23:59" )
+	SetTime( "2014-01-01 00:00", "2019-01-01 23:59" )
 
-	SetLevelUpGift( 15, "all", "II_SYS_BLI_BLI_FLARIS", 1 )
-	
+	SetExpFactor( 0.4 )
+	SetGoldDropFactor( 0.13 )
+	SetCheerExpFactor( 2.3 )
+	SetRainEvent( 5, "The Mops are Stronger!" )
+	SetSnowEvent( 5, "Its snowing..." )
 --}

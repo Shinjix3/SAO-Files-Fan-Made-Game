@@ -1,0 +1,272 @@
+version "V0.01"
+encryptionKey 0x57
+
+resource 1 "..\ResClient\data.res"
+{
+	file 		"Constant.inc"
+	file 		"ContinentDef.h"
+	file 		"credit.txt"
+	file 		"define.h"
+	file 		"defineAttribute.h"
+	file 		"defineEvent.h"
+	file 		"defineItem.h"
+	file 		"defineItemkind.h"
+	file 		"defineNeuz.h"
+	file 		"defineObj.h"
+	file 		"defineSkill.h"
+	file 		"defineSound.h"
+	file 		"defineText.h"
+	file 		"defineWorld.h"
+	file 		"defineJob.h"
+	file 		"definequest.h"
+	file 		"expTable.inc"
+	file 		"defineHonor.h"
+	file 		"honorList.txt"
+	file 		"honorList.txt.txt"
+	file 		"jobItem.inc"
+	file 		"lang.h"
+	file 		"Masquerade.prj"
+	file 		"propCtrl.txt"
+	file 		"propGuildQuest.inc"
+	file 		"propMover.txt"
+	file 		"propObj.csv"
+	file 		"propSkill.txt"
+	file 		"propTroupeSkill.txt"
+	file 		"propSkillAdd.csv"
+	file 		"propMoverEx.inc"
+	file 		"propMotion.txt"
+	file 		"ResData.h"
+	file 		"Terrain.inc"
+	file 		"WndStyle.h"
+	file 		"wordToolTip.inc"
+	file 		"propEnchant.inc"
+	file 		"World.inc"
+	file 		"mdlObj.inc"
+	file 		"mdlDyna.inc"
+	file 		"textEmotion.txt"
+	file 		"propKarma.txt"
+	file 		"propItemEtc.inc"
+	file 		"propEvent.inc"
+	file		"propCtrl.txt.txt"
+	file		"propMover.txt.txt"
+	file		"propSkill.txt.txt"
+	file		"propTroupeSkill.txt.txt"
+	file		"propMotion.txt.txt"
+	file		"textEmotion.txt.txt"
+	file		"propKarma.txt.txt"
+	file		"propItemEtc.txt.txt"
+	file		"world.txt.txt"
+	file		"propLang.txt"
+	file		"PKSetting.inc"
+	file		"Exchange_Script.txt"
+	file 		"Ultimate_GemAbility.txt"
+	file		"pet.inc"
+	file		"collecting.inc"
+	file		"accessory.inc"
+	file 		"QuestDestination.txt.txt"
+	file 		"PatrolDestination.txt.txt"
+	wildcard 	"InvalidName*.inc" 
+}
+
+resource 1 "..\ResClient\dataSub1.res"
+{
+	file 		"etc.inc"
+	file 		"propJob.inc"
+	file 		"resdata.inc"
+	file 		"textClient.inc"
+	file		"etc.txt.txt"
+	file		"resData.txt.txt"
+	file		"textClient.txt.txt"
+	file		"definelordskill.h"
+	file		"lordskill.txt"
+	file		"lordskill.txt.txt"
+	file		"lordevent.inc"
+	file		"couple.inc"
+	file		"ticket.inc"
+	file		"layer.inc"
+	wildcard 	"propQuest*.txt"
+	wildcard 	"propQuest*.inc"
+	wildcard 	"character*.txt"
+	wildcard 	"character*.inc"
+}
+
+resource 1 "..\ResClient\dataSub2.res"
+{
+	file 		"propItem.txt"
+	file		"propItem.txt.txt"
+	file		"except.txt"
+}
+
+resource 1 "..\ResClient\Icon\Icon.res"
+{
+	file 		"Icon\Icon_1Dice1.dds"
+	file		"Icon\Icon_1Dice90X90.dds"
+	file		"Icon\Icon_2Dice2.dds"
+}
+
+
+resource 1 "..\ResClient\Client\Client.res"
+{
+	file 		"Client\ChangeAttribute.inc
+"
+	file 		"Client\ChangeUltimateWeaponInfo.inc
+"
+	file 		"Client\ChangeUniqueWeaponInfo.inc
+"
+	file 		"Client\CoupleSkillInfo.inc
+"
+	file 		"Client\faq.inc
+"
+	file 		"Client\faq.txt.txt
+"
+	file 		"Client\GameGuard.inc
+"
+	file 		"Client\GameGuard.txt.txt
+"
+	file 		"Client\Guide.inc
+"
+	file 		"Client\Guide.txt.txt
+"
+	file 		"Client\GuildCombat1to1_TEXT1_ENG.inc
+"
+	file 		"Client\GuildCombat1to1_TEXT2_ENG.inc
+"
+	file 		"Client\GuildCombat1to1_TEXT3_ENG.inc
+"
+	file 		"Client\GuildCombat1to1_TEXT4_ENG.inc
+"
+	file 		"Client\GuildCombat1to1_TEXT5_ENG.inc
+"
+	file 		"Client\GuildCombatRedChipGuild.inc
+"
+	file 		"Client\GuildCombatTEXT_1_ENG.inc
+"
+	file 		"Client\GuildCombatTEXT_2_ENG.inc
+"
+	file 		"Client\GuildCombatTEXT_3_ENG.inc
+"
+	file 		"Client\GuildCombatTEXT_4_ENG.inc
+"
+	file 		"Client\GuildCombatTEXT_5_ENG.inc
+"
+	file 		"Client\GuildCombatTEXT_6_ENG.inc
+"
+	file 		"Client\help.inc
+"
+	file 		"Client\help.txt.txt
+"
+	file 		"Client\HeroSkillUp.inc
+"
+	file 		"Client\instantHelp.inc
+"
+	file 		"Client\InstantHelp.txt.txt
+"
+	file 		"Client\ItemAwakening.inc
+"
+	file 		"Client\ItemBlessingCancel.inc
+"
+	file 		"Client\lordcandidate.inc
+"
+	file 		"Client\lordInfo.inc
+"
+	file 		"Client\lordrpInfo.inc
+"
+	file 		"Client\MiniGameDiceDesc.inc
+"
+	file 		"Client\MiniGameFindWordDesc.inc
+"
+	file 		"Client\MiniGamePuzzleDesc.inc
+"
+	file 		"Client\notice_ENG.inc
+"
+	file 		"Client\notice_GER.inc
+"
+	file 		"Client\PatchClient.inc
+"
+	file 		"Client\PatchClient.txt.txt
+"
+	file 		"Client\PetAwakCancel.inc
+"
+	file 		"Client\PetMiracle.inc
+"
+	file 		"Client\PetTransEggs.inc
+"
+	file 		"Client\RainbowRaceArithmetic.inc
+"
+	file 		"Client\RainbowRaceCard.inc
+"
+	file 		"Client\RainbowRaceDice.inc
+"
+	file 		"Client\RainbowRaceInfo.inc
+"
+	file 		"Client\RainbowRaceKawiBawiBo.inc
+"
+	file 		"Client\RainbowRaceLadder.inc
+"
+	file 		"Client\RainbowRaceOffer.inc
+"
+	file 		"Client\RainbowRacePrize.inc
+"
+	file 		"Client\RainbowRaceRule.inc
+"
+	file 		"Client\RainbowRaceStopwatch.inc
+"
+	file 		"Client\RainbowRaceTyping.inc
+"
+	file 		"Client\RemoveAttribute.inc
+"
+	file 		"Client\ReqLvDown.inc
+"
+	file 		"Client\RRMinigameArithmetic.inc
+"
+	file 		"Client\RRMinigameCard.inc
+"
+	file 		"Client\RRMinigameDice.inc
+"
+	file 		"Client\RRMinigameKawiBawiBo.inc
+"
+	file 		"Client\RRMinigameLadder.inc
+"
+	file 		"Client\RRMinigameStopwatch.inc
+"
+	file 		"Client\RRMinigameTyping.inc
+"
+	file 		"Client\SecretRoomBoard.inc
+"
+	file 		"Client\SecretRoomChangeTaxRate.inc
+"
+	file 		"Client\SecretRoomCheckTaxRate.inc
+"
+	file 		"Client\SecretRoomDesc.inc
+"
+	file 		"Client\SmeltChangeUltimateWeapon.inc
+"
+	file 		"Client\SmeltChangeUniqueWeapon.inc
+"
+	file 		"Client\SmeltExtraction.inc
+"
+	file 		"Client\SmeltJewel.inc
+"
+	file 		"Client\SmeltMixJewel.inc
+"
+	file 		"Client\SmeltRemoveJewel.inc
+"
+	file 		"Client\SmeltRemovePiercing.inc
+"
+	file 		"Client\sound.inc
+"
+	file 		"Client\summonAngelQuest.inc
+"
+	file 		"Client\tip.inc
+"
+	file 		"Client\tip.txt.txt
+"
+	file 		"Client\treeHelp.inc
+"
+	file 		"Client\treeHelp.txt.txt
+"
+	file 		"Client\tutorial.inc
+"
+	file 		"Client\tutorial.txt.txt
+"
+}

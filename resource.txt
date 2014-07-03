@@ -96,3 +96,10 @@ resource 1 "..\ResClient\dataSub2.res"
 	file		"propItem.txt.txt"
 	file		"except.txt"
 }
+
+resource 1 "..\ResClient\Icon\Icon.res"
+{
+	file 		"Icon\Icon_1Dice1.dds"
+	file		"Icon\Icon_1Dice90X90.dds"
+	file		"Icon\Icon_2Dice2.dds"
+}
